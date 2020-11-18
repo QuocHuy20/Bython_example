@@ -1,2 +1,2 @@
-# C_1000_exercise
-This repository for exercise in link:
+# bython
+This repository for exercise python.
